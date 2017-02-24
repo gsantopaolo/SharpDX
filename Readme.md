@@ -1,4 +1,4 @@
-# SharpDX [![Build status](https://ci.appveyor.com/api/projects/status/21v2akj26ytuyml6?svg=true)](https://ci.appveyor.com/project/xoofx/sharpdx)
+# SharpDX [![Build status](https://ci.appveyor.com/api/projects/status/xdd84ptejhwl6ty4?svg=true)](https://ci.appveyor.com/project/gsantopaolo/sharpdx)
 
 Official web site: [sharpdx.org](http://sharpdx.org)
 
